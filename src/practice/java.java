@@ -10,7 +10,7 @@ public class java {
 	static float f=55.7f;
 	static char ch='N';
 	static boolean g=true;
-	static String v="Velocity";
+	static String v="Nandkumar";
 	
 			
 	public static void main(String[] args) {
